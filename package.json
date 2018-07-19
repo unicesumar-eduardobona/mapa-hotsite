@@ -1,0 +1,20 @@
+{
+  "name": "mapa-hotsite",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-copy": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unicesumar-eduardobona/mapa-hotsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unicesumar-eduardobona/mapa-hotsite/issues"
+  },
+  "homepage": "https://github.com/unicesumar-eduardobona/mapa-hotsite#readme"
+}
